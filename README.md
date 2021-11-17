@@ -4,6 +4,14 @@
 The project aims to present an automation framework for projects with Selenium while collecting data for travel accommodations on the Booking.com website.
 
 
+## Project Bases
+
+Here are the contents that allowed this code to be reproduced
+
+- [Selenium Course for Beginners](https://youtu.be/j7VZsCCnptM)
+- [JimShapedCoding](http://www.jimshapedcoding.com/home/)
+
+
 ## Libs Documentation
 
 - [Selenium](https://selenium-python.readthedocs.io/)
@@ -14,8 +22,10 @@ The project aims to present an automation framework for projects with Selenium w
 
 To run this project, you will need to add the following environment variables so that the operating system locates the webdriver folder.
 
+Windows: 
 `set PATH=%PATH%;C:path-to-your-folder`
 
+Linux: `PATH=$PATH:/path/toyour/folder/`
 
 ## Run Locally
 
