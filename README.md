@@ -11,6 +11,11 @@ Here are the contents that allowed this code to be reproduced
 - [Selenium Course for Beginners](https://youtu.be/j7VZsCCnptM)
 - [JimShapedCoding](http://www.jimshapedcoding.com/home/)
 
+## Technology
+
+Project developed with
+
+- [Python 3.9+](https://www.python.org/downloads/release/python-391/)
 
 ## Libs Documentation
 
