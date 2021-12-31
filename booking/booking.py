@@ -47,12 +47,12 @@ class Booking(webdriver.Chrome):
 
     def select_dates(self, check_in_date, check_out_date):
         check_in_element = self.find_element_by_css_selector(
-            f'td[data-date="{check_in_date}"'
+            f'td[data-date="{check_in_date}"]'
         )
         check_in_element.click()
 
         check_out_element = self.find_element_by_css_selector(
-            f'td[data-date="{check_out_date}"'
+            f'td[data-date="{check_out_date}"]'
         )
         check_out_element.click()
 
